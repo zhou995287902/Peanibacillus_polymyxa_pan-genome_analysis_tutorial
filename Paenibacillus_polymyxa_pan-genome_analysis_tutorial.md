@@ -3,7 +3,7 @@
 ## 1. Strains sequence downloads
 
 ```shell
-cd Data/Peanibacillus_polymyxa_strains_sequence/
+cd Data/
 python3 ../../scripts/download_ref_seq.py Bacillus_amyloliquefaciens strain_list_add_num.txt > cmd_download_seq.sh
 bash cmd_download_seq.sh
 ```
@@ -16,7 +16,7 @@ bash cmd_download_seq.sh
 
 ```shell
 cd ../Analysis/16srRNA/
-python ../../scripts/prediction_16SrRNA.py ../../Data/Peanibacillus_polymyxa_strains_sequence/*.fna
+python ../../scripts/prediction_16SrRNA.py ../../Data/*.fna
 python ../../scripts/create_16SrRNA.py ./*.fsa
 ```
 
