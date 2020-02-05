@@ -1,0 +1,1 @@
+~/biosoft/Harvest-Linux64-v1.1.2/parsnp -r ../strain_seq/input_directory/genomic_sequence/no_plasmid_genomic/SC2_GCA_000164985.2_ASM16498v2_genomic.fna -d ../strain_seq/input_directory/genomic_sequence/no_plasmid_genomic/ -p 8 -c

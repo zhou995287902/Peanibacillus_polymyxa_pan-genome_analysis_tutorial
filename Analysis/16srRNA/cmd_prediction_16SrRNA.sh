@@ -1,0 +1,14 @@
+~/biosoft/rnammer-1.2/rnammer -S bac -m ssu -xml ATCC.xml -gff ATCC.gff -h ATCC.hmmreport -f ATCC.fsa < ../strain_seq/input_directory/genomic_sequence/ATCC_15970_GCA_001922145.1_ASM192214v1_genomic.fna
+~/biosoft/rnammer-1.2/rnammer -S bac -m ssu -xml CF05.xml -gff CF05.gff -h CF05.hmmreport -f CF05.fsa < ../strain_seq/input_directory/genomic_sequence/CF05_GCF_000785455.1_ASM78545v1_cds_from_genomic.fna
+~/biosoft/rnammer-1.2/rnammer -S bac -m ssu -xml CR1.xml -gff CR1.gff -h CR1.hmmreport -f CR1.fsa < ../strain_seq/input_directory/genomic_sequence/CR1_GCA_000507205.2_ASM50720v2_genomic.fna
+~/biosoft/rnammer-1.2/rnammer -S bac -m ssu -xml E681.xml -gff E681.gff -h E681.hmmreport -f E681.fsa < ../strain_seq/input_directory/genomic_sequence/E681_GCA_000146875.2_ASM14687v2_genomic.fna
+~/biosoft/rnammer-1.2/rnammer -S bac -m ssu -xml HY96-2.xml -gff HY96-2.gff -h HY96-2.hmmreport -f HY96-2.fsa < ../strain_seq/input_directory/genomic_sequence/HY96-2_GCA_002893885.1_ASM289388v1_genomic.fna
+~/biosoft/rnammer-1.2/rnammer -S bac -m ssu -xml J.xml -gff J.gff -h J.hmmreport -f J.fsa < ../strain_seq/input_directory/genomic_sequence/J_GCA_001719045.1_ASM171904v1_genomic.fna
+~/biosoft/rnammer-1.2/rnammer -S bac -m ssu -xml M1.xml -gff M1.gff -h M1.hmmreport -f M1.fsa < ../strain_seq/input_directory/genomic_sequence/M1_GCA_000237325.1_ASM23732v1_genomic.fna
+~/biosoft/rnammer-1.2/rnammer -S bac -m ssu -xml SC2.xml -gff SC2.gff -h SC2.hmmreport -f SC2.fsa < ../strain_seq/input_directory/genomic_sequence/SC2_GCA_000164985.2_ASM16498v2_genomic.fna
+~/biosoft/rnammer-1.2/rnammer -S bac -m ssu -xml SQR21.xml -gff SQR21.gff -h SQR21.hmmreport -f SQR21.fsa < ../strain_seq/input_directory/genomic_sequence/SQR21_GCA_000597985.1_ASM59798v1_genomic.fna
+~/biosoft/rnammer-1.2/rnammer -S bac -m ssu -xml Sb3-1.xml -gff Sb3-1.gff -h Sb3-1.hmmreport -f Sb3-1.fsa < ../strain_seq/input_directory/genomic_sequence/Sb3-1_GCA_000819665.1_ASM81966v1_genomic.fna
+~/biosoft/rnammer-1.2/rnammer -S bac -m ssu -xml YC0136.xml -gff YC0136.gff -h YC0136.hmmreport -f YC0136.fsa < ../strain_seq/input_directory/genomic_sequence/YC0136_GCA_001874405.3_ASM187440v3_genomic.fna
+~/biosoft/rnammer-1.2/rnammer -S bac -m ssu -xml YC0573.xml -gff YC0573.gff -h YC0573.hmmreport -f YC0573.fsa < ../strain_seq/input_directory/genomic_sequence/YC0573_GCA_001874425.3_ASM187442v3_genomic.fna
+~/biosoft/rnammer-1.2/rnammer -S bac -m ssu -xml ZF129.xml -gff ZF129.gff -h ZF129.hmmreport -f ZF129.fsa < ../strain_seq/input_directory/genomic_sequence/ZF129_GCA_006274405.1_ASM627440v1_genomic.fna
+~/biosoft/rnammer-1.2/rnammer -S bac -m ssu -xml ZF197.xml -gff ZF197.gff -h ZF197.hmmreport -f ZF197.fsa < ../strain_seq/input_directory/genomic_sequence/ZF197_GCA_007858415.1_ASM785841v1_genomic.fna
